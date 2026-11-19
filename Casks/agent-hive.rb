@@ -10,7 +10,6 @@ cask "agent-hive" do
   homepage "https://github.com/ericwang915/agent-hive"
 
   auto_updates true
-  depends_on macos: ">= :monterey"
 
   app "Agent Hive.app"
 
