@@ -6,7 +6,7 @@
 brew install --cask ericwang915/tap/agent-hive
 ```
 
-The cask always installs the latest release. The app is signed and notarized by Apple and upgrades itself from then on, so `brew upgrade` leaves it alone.
+The cask always installs the latest release. The app is signed and notarized by Apple and upgrades itself from then on; `brew upgrade` leaves it alone.
 
 To remove it:
 

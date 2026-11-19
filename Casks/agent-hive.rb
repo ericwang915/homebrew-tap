@@ -9,8 +9,6 @@ cask "agent-hive" do
   desc "Runs coding-agent CLIs as a team, with schedules and review relays"
   homepage "https://github.com/ericwang915/agent-hive"
 
-  auto_updates true
-
   app "Agent Hive.app"
 
   zap trash: "~/Library/Application Support/Agent Hive"
